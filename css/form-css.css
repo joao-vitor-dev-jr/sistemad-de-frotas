@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: montserrat;
+    box-sizing: border-box;
+  }
+  
+  body{
+    min-height: 100vh;
+    background-color: white;
+  }
+  form{
+    padding: 80px 40px;
+    position: absolute;
+    left: 50%;
+    top: 160%;
+    transform: translate(-50%,-50%);
+  }
+  table{
+  padding: 80px 40px;
+    position: absolute;
+    left: 50%;
+    top: 110%;
+    transform: translate(-50%,-50%);
+}
